@@ -6,7 +6,7 @@
 
 💞️ I try to collaborate in some programs in PYTHON
 
-📫 How to contact me: Whatsapp +55 (11) 973604933
+
 
 <!---
 ZimboSebastiao/ZimboSebastiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
