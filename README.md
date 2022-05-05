@@ -2,9 +2,9 @@
 
 👀 I'm interested in being part of a community of programmers
 
-🌱 I am currently learning Python and PHP
+🌱 I am currently learning SQL and C
 
-💞️ I try to collaborate in some programs in PYTHON
+💞️ I try to collaborate in some programs in SQL
 
 
 
