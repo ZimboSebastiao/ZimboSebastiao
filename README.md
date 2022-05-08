@@ -1,9 +1,9 @@
                                                                                     
 ## Hi there 👋, My name is Zimbo
 
-__*I'm a student of information systems, I'm a beginner in 
+>I'm a student of information systems, I'm a beginner in 
 the area of programming, but I have an immense desire to                             
-learn and participate in several projects*__				
+learn and participate in several projects			
 - 🔭 I’m currently working on SQL Language
 - 🌱 I’m currently learning SQL and C
 - 👯 I’m looking to collaborate on PL/SQL
