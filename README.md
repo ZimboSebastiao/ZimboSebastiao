@@ -3,8 +3,8 @@
 
 __*I'm a student of information systems, I'm a beginner in 
 the area of programming, but I have an immense desire to                             
-learn and participate in several projects*__
-
+learn and participate in several projects*__			
+																																										previewfile_2217383700.gif	
 - 🔭 I’m currently working on SQL Language
 - 🌱 I’m currently learning SQL and C
 - 👯 I’m looking to collaborate on PL/SQL
