@@ -1,3 +1,4 @@
+![giphy](https://user-images.githubusercontent.com/94145573/167278166-c3d3615d-86f4-4519-9a28-1ae30d6a2843.gif)
                                                                                     
 ## Hi there 👋, My name is Zimbo
 
