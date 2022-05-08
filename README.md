@@ -1,3 +1,4 @@
+![App-Developer](https://user-images.githubusercontent.com/94145573/167276117-a206c10a-688f-4e3c-ba0a-d93600fd6578.gif)
 👋 Hi, I'm zimbo sebastião
 
 👀 I'm interested in being part of a community of programmers
