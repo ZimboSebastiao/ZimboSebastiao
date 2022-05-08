@@ -1,4 +1,4 @@
-![giphy](https://user-images.githubusercontent.com/94145573/167278166-c3d3615d-86f4-4519-9a28-1ae30d6a2843.gif)
+
                                                                                     
 ## Hi there 👋, My name is Zimbo
 
@@ -9,7 +9,7 @@ learn and participate in several projects
 - 🌱 I’m currently learning SQL and C
 - 👯 I’m looking to collaborate on PL/SQL
 - 🤔 I’m looking for help with android development and Web development
-- 📫 How to reach me: gloriasebastiao7@gmail.com 
+- 📫 How to reach me: [Acesse o meu Linkedin](https://www.linkedin.com/in/zimbo-sebasti%C3%A3o-3397a1195/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love listening to music
 
