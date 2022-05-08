@@ -1,5 +1,5 @@
 
-# Hi there 👋, My name is Zimbo
+## Hi there 👋, My name is Zimbo
 
 __*I'm a student of information systems, I'm a beginner in 
 the area of programming, but I have an immense desire to 
