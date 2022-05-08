@@ -3,7 +3,7 @@
 
 __*I'm a student of information systems, I'm a beginner in 
 the area of programming, but I have an immense desire to 
-learn and participate in several projects
+learn and participate in several projects*__
 
 - 🔭 I’m currently working on SQL Language
 - 🌱 I’m currently learning SQL and C
