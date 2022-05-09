@@ -35,7 +35,21 @@ learn and participate in several projects	</h3>
 ![mysql_PNG23 (2)](https://user-images.githubusercontent.com/94145573/167325534-54fe37b6-db63-4a81-b982-8352c20301c1.png)
 
 
-
-
-
+<div>
+  <a href="https://github.com/ZimboSebastiao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZimboSebastiao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimboSebastiao&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+</div>
+   
+  <div>
+      <div align="center">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZimboSebastiao&theme=dark">
+  </div>
+  
+  <h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=ZimboSebastiao&theme=nord&column=7" >
+  
+ <img align="center" alt="ZimboSebastiao-msqlserver"  src="https://komarev.com/ghpvc/?username=ZimboSebastiao&style=flat-square"> 
+  
 
