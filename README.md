@@ -11,9 +11,20 @@ learn and participate in several projects	</h3>
 - 🌱 I’m currently learning: SQL, PL/SQL, C.
 - 👯 I’m looking to collaborate on PL/SQL
 - 🤔 I’m looking for help with android development and Web development
-- 📫 How to reach me: [Acesse o meu Linkedin](https://www.linkedin.com/in/zimbo-sebasti%C3%A3o-3397a1195/)
 - 😄 Pronouns: She/her
 - ⚡ Fun Fact: I love listening to music
+  <h3>📫 How to reach me:</h3>
+  <div>
+    <a href="https://www.linkedin.com/in/zimbo-sebasti%C3%A3o-3397a1195/">
+      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    </a>
+    <a href="https://dev.to/zimbosebastiao">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/zimbosebastiao" height="30" width="40" />
+    </a>
+    <a href="https://codepen.io/zimbosebastiao">
+      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
+  </a>
+  </div>
 
 ## SKILLS & TOOLS
 
