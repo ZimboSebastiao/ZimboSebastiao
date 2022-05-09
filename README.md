@@ -1,10 +1,11 @@
 
+
 <h1 align="center">Hi there, I'm <a href="https://apleon.github.io/rsschool-cv/" target="_blank">Zimbo</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'm a student of information systems, I'm a beginner in 
 the area of programming, but I have an immense desire to                             
 learn and participate in several projects	</h3>
-<img align="right" src="https://user-images.githubusercontent.com/94145573/167326974-5c257d55-b823-4c53-b269-f1a767897620.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="https://user-images.githubusercontent.com/94145573/167327452-29b47dbe-1ea4-4f52-b116-435b08add748.gif" alt="Hola Coders" width="500" height="350"/> 
 
 - 🔭 I’m currently working on SQL Language
 - 🌱 I’m currently learning: SQL, PL/SQL, C.
