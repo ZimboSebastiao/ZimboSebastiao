@@ -4,6 +4,7 @@
 <h3 align="center"> I'm a student of information systems, I'm a beginner in 
 the area of programming, but I have an immense desire to                             
 learn and participate in several projects	</h3>
+<img align="right" src="https://user-images.githubusercontent.com/94145573/167326974-5c257d55-b823-4c53-b269-f1a767897620.gif" alt="Hola Coders" width="500" height="350"/> 
 
 - 🔭 I’m currently working on SQL Language
 - 🌱 I’m currently learning: SQL, PL/SQL, C.
@@ -22,9 +23,7 @@ learn and participate in several projects	</h3>
 ![mysql_PNG23 (2)](https://user-images.githubusercontent.com/94145573/167325534-54fe37b6-db63-4a81-b982-8352c20301c1.png)
 
 
-## STREAKS STATS
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Apleon&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-## USAGE OF LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apleon&layout=full)](https://github.com/Apleon/github-readme-stats)
+
+
 
 
