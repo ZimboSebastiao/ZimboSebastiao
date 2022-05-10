@@ -41,11 +41,7 @@ learn and participate in several projects	</h3>
     
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimboSebastiao&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 </div>
-   
-  <div>
-      <div align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZimboSebastiao&theme=dark">
-  </div>
+
   
   <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=ZimboSebastiao&theme=nord&column=7" >
