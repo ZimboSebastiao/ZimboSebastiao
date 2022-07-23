@@ -8,7 +8,7 @@ learn and participate in several projects	</h3>
 <img align="right" src="https://user-images.githubusercontent.com/94145573/167327452-29b47dbe-1ea4-4f52-b116-435b08add748.gif" alt="Hola Coders" width="500" height="350"/> 
 
 - 🔭 I’m currently working on SQL Language
-- 🌱 I’m currently learning: SQL, PL/SQL, C.
+- 🌱 I’m currently learning: SQL, PL/SQL, Python.
 - 👯 I’m looking to collaborate on PL/SQL
 - 🤔 I’m looking for help with android development and Web development
 - 😄 Pronouns: She/her
