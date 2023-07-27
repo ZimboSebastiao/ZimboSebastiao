@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there, I'm <a href="https://zimbosebastiao.github.io/portfolio/)" target="_blank">Zimbo</a>
+<h1 align="center">Hi there, I'm <a href="https://zimbosebastiao.github.io/portfolio/" target="_blank">Zimbo</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'm a student of information systems, I'm a beginner in 
 the area of programming, but I have an immense desire to                             
