@@ -22,8 +22,6 @@ learn and participate in several projects	</h3>
 
 ## SKILLS & TOOLS
 
-
-
 <div>
      
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimboSebastiao&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
