@@ -18,21 +18,10 @@ learn and participate in several projects	</h3>
     <a href="https://www.linkedin.com/in/zimbo-sebasti%C3%A3o-3397a1195/">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
     </a>
-    <a href="https://dev.to/zimbosebastiao">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/zimbosebastiao" height="30" width="40" />
-    </a>
-    <a href="https://codepen.io/zimbosebastiao">
-      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
-  </a>
   </div>
 
 ## SKILLS & TOOLS
 
-![Oracle_logo svg](https://user-images.githubusercontent.com/94145573/167325206-9f4f375a-14e9-4429-acb2-62272a14b186.png)
-![C)](https://user-images.githubusercontent.com/94145573/167326096-4b4aa3a0-637c-49a9-b06a-317d6e9a73a5.jpg)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![mysql_PNG23 (2)](https://user-images.githubusercontent.com/94145573/167325534-54fe37b6-db63-4a81-b982-8352c20301c1.png)
 
 
 <div>
