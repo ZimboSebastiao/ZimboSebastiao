@@ -3,7 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/94145573/167327452-29b47dbe-1ea4-4f52-b116-435b08add748.gif" alt="Hola Coders" width="500" height="350"/> 
 
 # 💫 About Me:
-- 🔭 I’m currently working on PHP, Python and Javascript Language
+- 🔭 I’m currently working on PHP, Python and Javascript
 - 🌱 I’m currently learning: PHP, Python, Css, Html.
 - 👯 I’m looking to collaborate on PHP
 - 🤔 I’m looking for help with android development and Web development
