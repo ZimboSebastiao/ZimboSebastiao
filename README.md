@@ -32,8 +32,14 @@
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=ZimboSebastiao&icon=0&color=1)](https://visitcount.itsvg.in)
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ZimboSebastiao/ZimboSebastiao/output/snake.svg" alt="Snake animation" />
+
+###
 
 
